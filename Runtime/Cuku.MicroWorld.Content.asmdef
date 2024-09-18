@@ -1,0 +1,16 @@
+{
+    "name": "Cuku.MicroWorld.Content",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ddf640fd36739d4a84e6f2edda04d93"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
